@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\vb1 BMI\vb1 BMI\bin\Debug\vb1 BMI.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\bin\Debug\vb1 BMI.exe
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\bin\Debug\vb1 BMI.pdb
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\bin\Debug\vb1 BMI.xml
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1 BMI.vbprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1_BMI.BMICalculator.resources
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1_BMI.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1 BMI.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1 BMI.exe
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1 BMI.xml
+C:\Users\User\documents\visual studio 2015\Projects\vb1 bmi\vb1 BMI\obj\Debug\vb1 BMI.pdb

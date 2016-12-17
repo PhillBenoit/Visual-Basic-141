@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\bin\Debug\vb4 deli.exe.config
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\bin\Debug\vb4 deli.exe
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\bin\Debug\vb4 deli.pdb
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\bin\Debug\vb4 deli.xml
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4 deli.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4_deli.frmDeli.resources
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4_deli.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4 deli.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4 deli.exe
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4 deli.xml
+c:\users\user\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4 deli.pdb
+C:\Users\User\documents\visual studio 2015\Projects\vb4 deli\vb4 deli\obj\Debug\vb4_deli.frmAboutDeli.resources

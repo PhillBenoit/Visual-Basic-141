@@ -1,0 +1,34 @@
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\App.xbf
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\VB8 BMI Phone.xr.xml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\VB8 BMI Phone.exe
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\VB8 BMI Phone.pdb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\VB8_BMI_Phone.xml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\resources.pri
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\bin\Debug\VB8 BMI Phone.build.appxrecipe
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\App.g.i.vb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\App.g.vb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\MainPage.g.i.vb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\MainPage.g.vb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\XamlTypeInfo.g.vb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\App.xaml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\MainPage.xaml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\App.xbf
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\XamlSaveStateFile.xml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\VB8 BMI Phone.exe
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\VB8_BMI_Phone.xml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\VB8 BMI Phone.pdb
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2015\Projects\VB8 BMI Phone\VB8 BMI Phone\obj\Debug\ProjectArchitectures.txt

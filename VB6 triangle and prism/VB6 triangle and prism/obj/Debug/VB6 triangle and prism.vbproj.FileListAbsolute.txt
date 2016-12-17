@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\bin\Debug\VB6 triangle and prism.exe.config
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\bin\Debug\VB6 triangle and prism.exe
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\bin\Debug\VB6 triangle and prism.pdb
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\bin\Debug\VB6 triangle and prism.xml
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6 triangle and prism.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6_triangle_and_prism.frmShapeCalc.resources
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6_triangle_and_prism.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6 triangle and prism.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6 triangle and prism.exe
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6 triangle and prism.xml
+c:\users\user\documents\visual studio 2015\Projects\VB6 triangle and prism\VB6 triangle and prism\obj\Debug\VB6 triangle and prism.pdb

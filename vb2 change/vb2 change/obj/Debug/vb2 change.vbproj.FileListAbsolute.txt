@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\bin\Debug\vb2 change.exe.config
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\bin\Debug\vb2 change.exe
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\bin\Debug\vb2 change.pdb
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\bin\Debug\vb2 change.xml
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2 change.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2_change.frmChange.resources
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2_change.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2 change.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2 change.exe
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2 change.xml
+c:\users\user\documents\visual studio 2015\Projects\vb2 change\vb2 change\obj\Debug\vb2 change.pdb

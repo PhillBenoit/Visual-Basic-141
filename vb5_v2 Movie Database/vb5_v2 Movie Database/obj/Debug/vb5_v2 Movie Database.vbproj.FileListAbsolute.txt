@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\bin\Debug\vb5_v2 Movie Database.exe.config
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\bin\Debug\movie.mdb
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\bin\Debug\vb5_v2 Movie Database.exe
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\bin\Debug\vb5_v2 Movie Database.pdb
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\bin\Debug\vb5_v2 Movie Database.xml
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2 Movie Database.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2_Movie_Database.frmMovie.resources
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2_Movie_Database.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2 Movie Database.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2 Movie Database.exe
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2 Movie Database.xml
+c:\users\user\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2 Movie Database.pdb
+C:\Users\User\documents\visual studio 2015\Projects\vb5_v2 Movie Database\vb5_v2 Movie Database\obj\Debug\vb5_v2_Movie_Database.frmAboutMovieDB.resources
